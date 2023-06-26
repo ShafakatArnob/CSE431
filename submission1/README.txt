@@ -16,6 +16,6 @@ Group Number:
 
 Group Members:
 20101129 Shafakat Sowroar Arnob
-20301292 Samiun jahan Awishy
+20301292 Samiun Jahan Awishy
 20301299 Tashfiq Alam Ovey
 20301316 M. A. Ahad Shikder
