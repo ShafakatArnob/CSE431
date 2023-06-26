@@ -2,13 +2,14 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/project/6498328c521bbd46c63e70d0
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/zvqwqysUFmM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1SOvfE4KFBrYfSbW443EjaPaHIV9GMrr2qqE289tzmp8/edit?usp=sharing
+
 
 Project title:
-
+"Multi-lingual Misogyny Identification with NLP and Explainable AI"
 
 Group Number:
 18
