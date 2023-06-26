@@ -9,13 +9,13 @@ https://docs.google.com/presentation/d/1SOvfE4KFBrYfSbW443EjaPaHIV9GMrr2qqE289tz
 
 
 Project title:
-"Multi-lingual Misogyny Identification with NLP and Explainable AI"
+Multi-lingual Misogyny Identification with NLP and Explainable AI
 
 Group Number:
 18
 
 Group Members:
 20101129 Shafakat Sowroar Arnob
-20301292 Samiun jahan awishy
+20301292 Samiun jahan Awishy
 20301299 Tashfiq Alam Ovey
 20301316 M. A. Ahad Shikder
