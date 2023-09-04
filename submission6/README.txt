@@ -2,7 +2,7 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/cptvphbtprwk
 
 Unlisted YouTube video:
-https://youtu.be/ZOPaeZuHmY4
+https://youtu.be/XKpXevNcElE
 
 Paper title:
 Bengali Misogyny Identification with Deep Learning and LIME
