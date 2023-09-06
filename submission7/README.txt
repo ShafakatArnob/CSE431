@@ -1,14 +1,14 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/read/cptvphbtprwk
+https://www.overleaf.com/read/jhrbsznfktkn
 
 Unlisted YouTube video:
 https://youtu.be/ZOPaeZuHmY4
 
 Paper title:
-Bengali Misogyny Identification with Deep Learning and LIME
+FIFA World Cup 2022 Sentiment Analysis with Deep Learning and LIME
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1X0-4hrVK-qfRJNblx2hZ54G_OaNder5YuV-RiQEqoHA/edit?usp=sharing
+https://docs.google.com/presentation/d/1X_1PnQ11daAr6g2RHHVLSQd5bR3qndZf/edit?usp=sharing&ouid=106403521836144537550&rtpof=true&sd=true
 
 Group Number:
 18
