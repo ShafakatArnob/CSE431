@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/AW00vfY2398
 
 Paper title:
-FIFA World Cup 2022 Sentiment Analysis with Deep Learning and LIME
+Analyzing Public Sentiment on Social Media during FIFA World Cup 2022 using Deep Learning and Explainable AI
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1X_1PnQ11daAr6g2RHHVLSQd5bR3qndZf/edit?usp=sharing&ouid=106403521836144537550&rtpof=true&sd=true
